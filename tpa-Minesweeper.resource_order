@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":8,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":11,"path":"folders/Objects.yy",},
+    {"name":"Paths","order":5,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":12,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":6,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":10,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":7,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":4,"path":"folders/Sounds.yy",},
+    {"name":"tilesets","order":2,"path":"folders/Sprites/tilesets.yy",},
+    {"name":"Tile Sets","order":3,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_smiley","order":1,"path":"sprites/spr_smiley/spr_smiley.yy",},
+    {"name":"grid_initialize","order":1,"path":"scripts/grid_initialize/grid_initialize.yy",},
+    {"name":"grid_reveal","order":2,"path":"scripts/grid_reveal/grid_reveal.yy",},
+    {"name":"set_adjacent","order":3,"path":"scripts/set_adjacent/set_adjacent.yy",},
+    {"name":"fnt_main","order":1,"path":"fonts/fnt_main/fnt_main.yy",},
+    {"name":"compatibility_report_201223_1739113911","order":1,"path":"notes/compatibility_report_201223_1739113911/compatibility_report_201223_1739113911.yy",},
+  ],
+}

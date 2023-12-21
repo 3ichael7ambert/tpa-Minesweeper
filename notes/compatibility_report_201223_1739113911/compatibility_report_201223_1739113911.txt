@@ -1,0 +1,8 @@
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/tpa-Minesweeper/conv/gmx/tpa-Minesweeper_378C60A8/fonts/fnt_sub/fnt_sub.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/tpa-Minesweeper/conv/gmx/tpa-Minesweeper_378C60A8/fonts/fnt_main/fnt_main.gms1.png
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/tpa-Minesweeper/conv/gmx/tpa-Minesweeper_378C60A8/objects/obj_controller/Draw_0.gml
+String not found: ConversionLog_ConvertedString 241 'C' "C"
+String not found: ConversionLog_ConvertedString 275 'T' "T"
+String not found: ConversionLog_ConvertedString 290 'R' "R"
+
+Game speed set to 30
